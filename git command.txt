@@ -1,0 +1,21 @@
+	git command 
+------------------------------------------------------
+git config --global user.name "username" --> add username 
+git config --global user.email "email" -->add email
+git init --> starting command
+git add .
+git commit -M "first commit"
+git remote add origin <url> 
+git push --> code push 
+git push -u origin main /master
+git branch -M master  --> change branch
+git status --> check status
+git push -f origin rehman:main --> merge
+git checkout -b "branch name" --> new branch
+git clone --> access git repositry
+git checkout <branch name> --> change branch
+git branch --> check branch
+
+
+
+
